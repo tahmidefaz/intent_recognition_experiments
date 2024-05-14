@@ -1,0 +1,920 @@
+intent,example
+intent_core_capabilities,How can you help me?
+intent_core_capabilities,Help me
+intent_core_capabilities,I need help
+intent_core_capabilities,What can you do?
+intent_core_capabilities,What do you do?
+intent_core_capabilities,What kind of things can you do?
+intent_core_capabilities,What are some examples of things you can do?
+intent_core_capabilities,What services can you help me with?
+intent_core_capabilities,What products can you assist me with?
+intent_core_capabilities,Show me what kind of things can you do
+intent_core_capabilities,Show me what do you do
+intent_core_capabilities,Show me what can you help me with
+intent_core_capabilities,Show me what you can do
+intent_core_capabilities,What are you able to do?
+intent_core_capabilities,What are you capable of doing?
+intent_core_capabilities,How can you help?
+intent_core_capabilities,What do I do?
+intent_core_capabilities,Tell me about you
+intent_core_capabilities,Tell me about yourself
+intent_core_capabilities,Tell me what you can do
+intent_core_capabilities,What are your capabilities?
+intent_core_capabilities,What are your abilities?
+intent_core_capabilities,What capabilities do you have?
+intent_core_capabilities,What abilities do you have?
+intent_core_capabilities,What are my options?
+intent_core_capabilities,What are the options?
+intent_core_yes,yes
+intent_core_yes,yeah
+intent_core_yes,of course
+intent_core_yes,for sure
+intent_core_yes,yep
+intent_core_yes,yup
+intent_core_yes,y
+intent_core_no,n
+intent_core_no,nah
+intent_core_no,no
+intent_core_no,i don't think so
+intent_core_no,nay
+intent_core_no,nvm
+intent_core_other,other
+intent_core_other,something else
+intent_core_other,a different one
+intent_core_hello,Hi
+intent_core_hello,hello
+intent_core_hello,what's up
+intent_core_hello,sup
+intent_core_hello,hey
+intent_core_hello,greetings
+intent_core_hello,afternoon
+intent_core_hello,yo
+intent_core_hello,salutations
+intent_core_hello,hello world
+intent_core_hello,hola
+intent_core_hello,happy day
+intent_core_hello,good morning
+intent_core_hello,good evening
+intent_core_hello,good afternoon
+intent_core_hello,how are you?
+intent_core_hello,how are you doing?
+intent_core_hello,how's it going?
+intent_core_hello,how are ya?
+intent_core_hello,hello robert
+intent_core_hello,hello robot
+intent_core_hello,"hello, whats your name?"
+intent_core_hello,good morning!
+intent_core_hello,Sup robot
+intent_core_hello,Hello assistat
+intent_planned_features,What's my burndown?
+intent_planned_features,What's my committed spend?
+intent_planned_features,Have I met my commitment for this year?
+intent_planned_features,Whats my yearly spend?
+intent_planned_features,What's my Openshift cluster spend?
+intent_planned_features,How much am I spending on Openshift clusters?
+intent_planned_features,Show me how much I'm spending on Openshift?
+intent_planned_features,How much did my organization spend this month?
+intent_planned_features,Show this month's spending
+intent_planned_features,How much is my line of business spending?
+intent_planned_features,Show me spending by product
+intent_planned_features,Create a cost report
+intent_planned_features,Create a report about my spending
+intent_out_of_scope,Who came up with the Red Hat?
+intent_out_of_scope,What are all the products Red Hat makes?
+intent_out_of_scope,What products do you make?
+intent_out_of_scope,Who started Red Hat?
+intent_out_of_scope,when was red hat founded?
+intent_unknown_topic,Tell me a joke
+intent_unknown_topic,Do you like fish?
+intent_unknown_topic,do you like pina coladas?
+intent_unknown_topic,do you like iphones?
+intent_unknown_topic,do you like pinball?
+intent_unknown_topic,do you like pizza?
+intent_unknown_topic,do you like union oil?
+intent_unknown_topic,do you like the color blue?
+intent_unknown_topic,What headphones do you recommend?
+intent_unknown_topic,What pair of shoes do you recommend?
+intent_unknown_topic,what iphone do you recommend?
+intent_unknown_topic,what wedding planners do you recommend?
+intent_unknown_topic,How good are you at math?
+intent_unknown_topic,Can you do math for me?
+intent_unknown_topic,What's my name
+intent_unknown_topic,are you a replicant
+intent_unknown_topic,where is my protected
+intent_unknown_topic,are we in matrix
+intent_unknown_topic,do you hate anyone
+intent_unknown_topic,are you single
+intent_unknown_topic,am I annoying you
+intent_unknown_topic,what's the weather?
+intent_live_chat,speak to agent
+intent_live_chat,agent
+intent_live_chat,human
+intent_live_chat,person
+intent_live_chat,support agent
+intent_live_chat,support tech
+intent_live_chat,support engineer
+intent_live_chat,I want to talk to a human
+intent_live_chat,I need an agent
+intent_live_chat,Can you take me to a person?
+intent_live_chat,Do you offer live chat?
+intent_live_chat,Do you support live chat?
+intent_live_chat,Can I speak to an agent?
+intent_live_chat,Where can I find an agent?
+intent_live_chat,Give me a damn human being!!
+intent_live_chat,is this chat live?
+intent_live_chat,can you have a real time conversatoin
+intent_live_chat,do you have tech support
+intent_live_chat,can i talk to a technical support agent
+intent_support,support case
+intent_support,can I speak to support?
+intent_support,urgent help needed
+intent_support,i have an urgent issue and need support
+intent_support,urgent bug
+intent_support,i need help with an urgent issue
+intent_support,i have to make a support request
+intent_support,Open a support case
+intent_support,Open a case for me
+intent_support,I want to open a support case
+intent_support,I want to open a case
+intent_services_offline,Are there any outages?
+intent_services_offline,Are any services down?
+intent_services_offline,Are there any products down?
+intent_services_offline,What services are offline?
+intent_services_offline,Is service [access.redhat.com](product) down?
+intent_services_offline,Is [console.redhat.com](product) down?
+intent_services_offline,Is something wrong with [cloud.redhat.com](product)?
+intent_services_offline,Is [developers.redhat.com](product) having issues?
+intent_services_offline,Is [insights](product) having issues?
+intent_services_offline,Is [inventory](product) having an outage?
+intent_services_offline,outages
+intent_services_offline,where can i view outages
+intent_services_offline,report an outage
+intent_services_offline,see current outages
+intent_services_offline,it's down
+intent_services_offline,where can i see what systems are down
+intent_services_offline,what's the site for viewing outages
+intent_services_offline,report a service offline
+intent_data_privacy_policy,Are you watching my conversations?
+intent_data_privacy_policy,How are you using my data?
+intent_data_privacy_policy,Who is getting my data?
+intent_data_privacy_policy,What is your privacy policy?
+intent_data_privacy_policy,How is my privacy protected?
+intent_data_privacy_policy,Are you collecting PII (Personally Identifiable Information)?
+intent_data_privacy_policy,Is my data being protected?
+intent_data_privacy_policy,What are you doing with this conversation?
+intent_data_privacy_policy,Is this conversation being monitored?
+intent_data_privacy_policy,Is a person watching this conversation?
+intent_data_privacy_policy,Will this conversation be reviewed?
+intent_data_privacy_policy,Is someone going to read this
+intent_data_privacy_policy,Are you learning from this conversation
+intent_data_privacy_policy,I don't feel safe talking to you
+intent_data_privacy_policy,Are you storing this conversation?
+intent_data_privacy_policy,Are we being watched?
+intent_data_privacy_policy,Is this being recorded?
+intent_data_privacy_policy,I feel spied on
+intent_data_privacy_policy,Is our conversation tracked
+intent_data_privacy_policy,Is this chat private?
+intent_data_privacy_policy,How can I trust the security of this?
+intent_data_privacy_policy,is this private?
+intent_data_privacy_policy,are we being monitored?
+intent_data_deletion,Can you delete my messages
+intent_data_deletion,I want to remove my messages
+intent_data_deletion,Please dont store my messages
+intent_data_deletion,Am I able to remove my message history?
+intent_data_deletion,Please clear the chat history
+intent_data_deletion,Delete chat history
+intent_data_deletion,do not save this chat history
+intent_data_deletion,empty the chat logs
+intent_data_deletion,can you please delete my chat logs
+intent_data_deletion,i dont want you to save this conversation log
+intent_data_deletion,remove conversation log from your storage
+intent_data_deletion,please get rid of my conversations in your logs
+intent_send_complaint,This sucks.
+intent_send_complaint,You suck.
+intent_send_complaint,This is garbage
+intent_send_complaint,This is trash
+intent_send_complaint,I really hate this experience
+intent_send_complaint,I'm not happy with this
+intent_send_complaint,You're not helping me!
+intent_send_complaint,I'm not getting what I need from this
+intent_send_complaint,I hate this
+intent_send_complaint,I want to talk with your manager
+intent_send_complaint,I don't like this
+intent_send_complaint,I do not like this
+intent_send_complaint,This is crap
+intent_send_complaint,you didnt help me with
+intent_send_complaint,why are you bad
+intent_send_complaint,you aren't helping me
+intent_send_complaint,garbage
+intent_send_complaint,I hate talking to bots
+intent_send_complaint,this is sad
+intent_send_complaint,bad bot
+intent_are_you_ai,What are you running on?
+intent_are_you_ai,What are you using to run this?
+intent_are_you_ai,How do you work?
+intent_are_you_ai,Do you use AI?
+intent_are_you_ai,Are you a robot?
+intent_are_you_ai,Is this a chatbot?
+intent_are_you_ai,Is this artificial intelligence
+intent_are_you_ai,What system are you running on
+intent_are_you_ai,Are you chatgpt
+intent_are_you_ai,Are you built using Watson?
+intent_are_you_ai,What backend are you running on?
+intent_are_you_ai,Is this machine learning
+intent_are_you_ai,Are you ai/ml
+intent_are_you_ai,Is this artificial intelligence (AI) or Machine Learning (ML)?
+intent_are_you_ai,Can you explain how you work?
+intent_are_you_ai,Who programmed you?
+intent_are_you_ai,chat gpt
+intent_are_you_ai,what type of program are you?
+intent_are_you_ai,what is supervised learning?
+intent_are_you_ai,ai test
+intent_are_you_ai,are you real?
+intent_user_preferences,How do I change my [email address](preference)?
+intent_user_preferences,How do I change my [name](preference)?
+intent_user_preferences,I want to change my [personal information](preference).
+intent_user_preferences,I want to update my [password](preference)
+intent_user_preferences,Change my [phone number](preference)
+intent_user_preferences,Update my [login](preference)
+intent_user_preferences,Reset my [password](preference).
+intent_user_preferences,Change my [password](preference).
+intent_user_preferences,Change my [username](preference)
+intent_user_preferences,Update my [email](preference).
+intent_user_preferences,Rename my [display name](preference)
+intent_user_preferences,Where do I change my [email](preference)?
+intent_user_preferences,Where can I reset my [password](preference)?
+intent_user_preferences,Where can I change my [username](preference)?
+intent_user_preferences,Where can I change my [preferences](preference)?
+intent_user_preferences,Where can I edit all of my [preferences](preference)?
+intent_user_preferences,please update my [preferences](preference)
+intent_user_preferences,i need to reset my [password](preference)
+intent_user_preferences,[password](preference) reset
+intent_user_preferences,reset my [username](preference) please
+intent_core_help,I want to manage
+intent_core_help,Can you help me install?
+intent_core_help,I need help with
+intent_core_help,What is
+intent_core_help,Can you help me with
+intent_core_help,Can you help me with my [ocm](core_services)?
+intent_core_help,What can do you do with
+intent_core_help,Where is [openshift](core_services)
+intent_core_help,Can you help me with my [acs](core_services)
+intent_core_help,Could you help me with my [ocm](core_services)
+intent_core_help,I need some assistance with [acs](core_services)
+intent_core_help,Can you help me with my [acs](core_services)
+intent_core_help,I need some assistance with [openshift](core_services)
+intent_core_help,Do you do anything with Red Hat [openshift](core_services) services on aws?
+intent_core_help,What is [rosa](core_services)
+intent_core_help,What are the [rosa](core_services) prerequisites
+intent_core_help,Can you install my [rosa](core_services) for me?
+intent_core_help,Download [rosa](core_services)
+intent_core_help,Deploy my [ocm](core_services)
+intent_core_help,Help me deploy my [openshift](core_services)
+intent_core_help,I need to deploy
+intent_core_help,I would like to deploy
+intent_core_help,I would like help with my (core_services)
+intent_core_help,can you help me with my problem?
+intent_core_here,Here
+intent_core_here,Here please
+intent_core_here,Here with you
+intent_core_here,Right here
+intent_core_here,Right here works
+intent_core_here,Right here with you
+intent_core_here,Right here is fine
+intent_core_here,Conversation
+intent_core_here,This conversation
+intent_core_here,Chat
+intent_core_here,This chat
+intent_core_here,This chat is fine
+intent_core_here,Let's do it here
+intent_core_here,With you
+intent_core_here,I'll let you collect the details.
+intent_core_here,I'd prefer to use the assistant
+intent_core_learn_more,learn more
+intent_core_learn_more,know more
+intent_core_learn_more,get more information
+intent_core_learn_more,I would like to know more
+intent_core_learn_more,I want to learn more
+intent_core_learn_more,want to know more
+intent_core_learn_more,more info
+intent_core_learn_more,give me the info
+intent_core_unsure,not sure
+intent_core_unsure,unsure
+intent_core_unsure,idk
+intent_core_unsure,I'm not sure
+intent_core_unsure,no clue
+intent_core_unsure,I have no idea
+intent_core_unsure,other
+intent_core_unsure,im not sure
+intent_core_guide_me,show me
+intent_core_guide_me,walk me through it
+intent_core_guide_me,do it for me
+intent_core_guide_me,show me how it is done
+intent_core_guide_me,guide me
+intent_core_something_else,something else
+intent_core_something_else,lets skip this
+intent_core_something_else,lets do something else
+intent_core_something_else,I want to do something else
+intent_core_something_else,Lets start over
+intent_core_something_else,I don't want to do this anymore
+intent_access_capabilities,Access issue
+intent_access_capabilities,Access denied
+intent_access_capabilities,Access error
+intent_access_capabilities,Can you help me get access?
+intent_access_capabilities,I am getting an access issue
+intent_access_capabilities,I am getting an access error
+intent_access_capabilities,I am getting an access denied error...
+intent_access_capabilities,I can't view my data.
+intent_access_capabilities,"I was able to view this page before, but now I can't."
+intent_access_capabilities,I can't access my data.
+intent_access_capabilities,Why can't I access my data?
+intent_access_capabilities,What do I do if I can't access something?
+intent_access_capabilities,how do I get access?
+intent_access_capabilities,How can I access?
+intent_access_request,I want access to [policies](core_services)
+intent_access_request,I want access
+intent_access_request,I want access to
+intent_access_request,I need access to the console.
+intent_access_request,Requesting access for me
+intent_access_request,Give me access
+intent_access_request,Give me access to [policies](core_services)
+intent_access_request,Request access from my administrator
+intent_access_check_access,Do I have access?
+intent_access_check_access,Do I have access to [policies](core_services)
+intent_access_check_access,Do I have permissions?
+intent_access_check_access,Do i have permission to [policies](core_services)
+intent_access_check_access,Am I allowed to access
+intent_access_check_access,Am I allowed to see [policies](core_services)
+intent_access_check_access,Can you check my access permission?
+intent_access_check_access,Do i have access to [advisor](core_services)
+intent_access_check_access,Do I have access to [notifications](core_services)
+intent_access_check_access,Do I have access to settings?
+intent_access_check_access,I can't access the console.
+intent_access_check_access,Why can't I view this?
+intent_access_check_access,Why don't I have access to this?
+intent_access_check_access,I can't view this page.
+intent_access_check_access,i'm unable to see [notifications](core_services)
+intent_access_check_access,can't see the pages i need to see
+intent_access_check_access,update my perms so i can see [advisor](core_services)
+intent_access_check_access,im not able to view any more
+intent_access_check_access,my access isnt working any more for [policies](core_services)
+intent_access_check_access,"did someone revoke my access, i can't see it"
+intent_access_contact_admin,Contact my org admin
+intent_access_contact_admin,Contact your organization's administrator
+intent_access_contact_admin,Who is my org admin?
+intent_access_contact_admin,Who is my organization's administrator?
+intent_access_contact_admin,Who do I ask for access?
+intent_access_org_id,what's my org id
+intent_access_org_id,where can i find my org id
+intent_access_org_id,i need my org id
+intent_access_org_id,can you give me my org id please
+intent_access_org_id,org id
+intent_access_org_id,hey can you please provide my organization identification number to me?
+intent_access_org_id,organization identification number
+intent_access_org_id,organization id number
+intent_access_org_id,where do we keep our organization numbers?
+intent_access_org_id,i need the number associated with my organization's account
+intent_access_org_id,id for organization
+intent_access_org_id,where can i locate my org identification #?
+intent_access_org_id,location of org id?
+intent_access_org_id,gimme my org's id
+intent_out_of_scope_subscriptions_costs,How much does a subscription cost?
+intent_out_of_scope_subscriptions_costs,What do my subscriptions cost?
+intent_out_of_scope_subscriptions_costs,How much do I pay for my subscriptions?
+intent_out_of_scope_subscriptions_costs,How much am I paying for my subscriptions?
+intent_out_of_scope_subscriptions_costs,How much am I paying for my subs?
+intent_out_of_scope_subscriptions_costs,subs cost
+intent_out_of_scope_subscriptions_costs,cost for a subscriptions
+intent_out_of_scope_subscriptions_costs,subs costing
+intent_out_of_scope_subscriptions_costs,subscriptions costing our company
+intent_subscriptions_generic,I need help with my subscriptions
+intent_subscriptions_generic,Can you help me with my subscriptions?
+intent_subscriptions_generic,what resources do you have around subscriptions?
+intent_subscriptions_generic,Where can I read about subscriptions?
+intent_subscriptions_generic,subs help
+intent_subscriptions_generic,subscriptions information
+intent_subscriptions_generic,subs info
+intent_subscriptions_generic,subscriptions
+intent_register_rhel_system,Register your RHEL systems
+intent_register_rhel_system,can you help me register my systems in rhel
+intent_register_rhel_system,how to register rhel systems
+intent_register_rhel_system,rhel system registration
+intent_register_rhel_system,how do I connect my rhel system to red hat
+intent_register_rhel_system,Is it possible to up rhel connction to red hat directly?
+intent_register_rhel_system,officially connect rhel system with red hat
+intent_activate_subscription,"I bought my subscription somewhere else, how can I activate it?"
+intent_activate_subscription,Where can I activate my subscription
+intent_activate_subscription,i purchased my subscriptions elsewhere and now need to activate them
+intent_activate_subscription,subscriptions activation
+intent_activate_subscription,activate subs
+intent_activate_subscription,activate my new subscription
+intent_activate_subscription,i have a new subscription that hasn't been activated anywhere
+intent_activate_subscription,are you able to activate a new sub for me?
+intent_check_subscriptions,How many subscriptions do I have?
+intent_check_subscriptions,What subscriptions do I have?
+intent_check_subscriptions,do I have any expiring subscriptions?
+intent_check_subscriptions,How many active subscriptions do I have?
+intent_check_subscriptions,Show me active subs
+intent_check_subscriptions,Show me expiring subs
+intent_check_subscriptions,Show me expired subs
+intent_check_subscriptions,Do I have expired subscriptions?
+intent_check_subscriptions,Can you give me a status rundown of all my subs?
+intent_check_subscriptions,what's going on with my subs?
+intent_check_subscriptions,can you give me an overview of my subs?
+intent_check_subscriptions,Do I have any subs that are active?
+intent_check_subscriptions,Do I have any subs that are expiring soon
+intent_check_subscriptions,How many subscriptions that are expiring soon?
+intent_check_subscriptions,what information do you have for my subs?
+intent_check_subscriptions,information on my subscriptions
+intent_check_subscriptions,View my subscriptions
+intent_check_subscriptions,view my organizations subscriptions
+intent_check_subscriptions,show me my subscriptions
+intent_check_subscriptions,Where can I see my subscriptions?
+intent_check_subscriptions,Can you show me my subscriptions?
+intent_subscriptions_redirect,subscriptions redirect
+intent_subscriptions_redirect,subs redirect
+intent_subscriptions_redirect,View subs page
+intent_subscriptions_redirect,show subs page
+intent_subscriptions_redirect,take me to the subs page
+intent_subscriptions_redirect,show me the subs page
+intent_subscriptions_doc,View subscriptions documentation on the Red Hat Portal
+intent_subscriptions_doc,Show subscriptions docs
+intent_subscriptions_doc,Show subscriptions documentations
+intent_subscriptions_doc,open the subs doc page
+intent_subscriptions_doc,View subscription documentation on the redhat portal
+intent_subscriptions_doc,View subscription documentation on the red-hat portal
+intent_subscriptions_doc,view subscription documentation on the portal
+intent_subscriptions_doc,view documentation on the red hat portal
+intent_subscriptions_doc,view subs documentation on the red hat portal
+intent_insights_advisor_recommendation_by_type,What performance issues do I have?
+intent_insights_advisor_recommendation_by_type,What are the performance problems on my systems?
+intent_insights_advisor_recommendation_by_type,What security issues do I have?
+intent_insights_advisor_recommendation_by_type,What are the security problems on my systems?
+intent_insights_advisor_recommendation_by_type,What availability issues do i have?
+intent_insights_advisor_recommendation_by_type,What are the availability problems on my systems?
+intent_insights_advisor_recommendation_by_type,What stability issues do I have?
+intent_insights_advisor_recommendation_by_type,What are the stability issues on my systems?
+intent_insights_advisor_recommendation_by_type,Are there any recommendations from Advisor?
+intent_insights_advisor_recommendation_by_type,Recommendations from Advisor
+intent_insights_advisor_recommendation_by_type,Advisor recommendations
+intent_insights_advisor_recommendation_by_type,Is advisor providing any recommendations
+intent_insights_advisor_recommendation_by_type,anything Advisor is suggesting me to do?
+intent_insights_advisor_recommendation_by_type,what suggestions is advisor giving me?
+intent_insights_advisor_recommendation_by_type,Is advisor recommending me to do something?
+intent_insights_advisor_recommendation_by_type,Advisor pathways
+intent_insights_advisor_recommendation_by_type,Is Advisor suggesting me any pathways
+intent_insights_advisor_recommendation_by_type,What does Advisor recommend that I do?
+intent_insights_advisor_recommendation_by_type,Advisor recommendations for my RHEL systems
+intent_insights_advisor_recommendation_by_type,Does advisor have any recommendations for me?
+intent_insights_advisor_recommendation_by_type,What are actions recommended?
+intent_insights_advisor_recommendation_by_type,What are the recommendations?
+intent_insights_advisor_recommendation_by_type,What are the recommendations from Advisor?
+intent_insights_advisor_recommendation_by_type,What is the most important recommendation?
+intent_insights_advisor_recommendation_by_type,What is advisor telling me today?
+intent_insights_advisor_recommendation_by_type,What is advisor telling me to do?
+intent_insights_advisor_recommendation_by_type,what recommendations do I have
+intent_insights_advisor_recommendation_by_type,advisor info
+intent_insights_advisor_recommendation_by_type,What new issues do I have?
+intent_insights_advisor_recommendation_by_type,Show me stability issues in Advisor
+intent_insights_advisor_recommendation_by_type,Show me whats new in Advisor
+intent_insights_advisor_recommendation_by_type,Show me new recommendations in Advisor
+intent_insights_advisor_recommendation_by_type,Which issues were found most recently?
+intent_insights_advisor_recommendation_by_type,Show me performance recommendations from Advisor
+intent_insights_advisor_recommendation_by_type,What are the new problems on my systems?
+intent_insights_advisor_recommendation_by_type,new recommendations Advisor
+intent_insights_advisor_recommendation_by_type,new rhel advisor
+intent_insights_advisor_recommendation_by_type,Any performance suggestions from Advisor?
+intent_insights_advisor_recommendation_by_type,new suggestions from Advisor?
+intent_insights_advisor_recommendation_by_type,tell me advisor recommendations for red hat enterprise linux
+intent_insights_advisor_recommendation_by_type,linux recommendations from advisor
+insights_vulnerability_my_cves,What RHEL systems do I have that are exposed to critical CVEs that are known exploits?
+insights_vulnerability_my_cves,Do I have any RHEL systems exposed to critical CVEs?
+insights_vulnerability_my_cves,Are any of these known exploits?
+insights_vulnerability_my_cves,Are my systems vulnerable?
+insights_vulnerability_my_cves,Are my systems exploitable?
+insights_vulnerability_my_cves,Do I have any vulnerability?
+insights_vulnerability_my_cves,Show me my CVEs
+insights_vulnerability_my_cves,Show my exploits
+insights_vulnerability_my_cves,I would like to view my vulnerabilities
+insights_vulnerability_my_cves,I would like to see my exploits
+insights_vulnerability_my_cves,I would like a list of my vulnerabilities
+insights_vulnerability_my_cves,I would like my cves
+insights_vulnerability_my_cves,Which CVEs do I have?
+insights_vulnerability_my_cves,What are my critical CVEs?
+insights_vulnerability_my_cves,Show me my critical CVE
+insights_vulnerability_my_cves,am I exposed?
+insights_vulnerability_my_cves,I want to see my top cves
+insights_vulnerability_my_cves,where are cves located?
+insights_vulnerability_my_cves,are any of my rhel systems exposed
+insights_vulnerability_my_cves,are any of my openshift clusters exposed to cves
+intent_image_builder_getting_started,How can I create a RHEL Image?
+intent_image_builder_getting_started,How do I get started with RHEL?
+intent_image_builder_getting_started,How do I download RHEL?
+intent_image_builder_getting_started,Create an image
+intent_image_builder_getting_started,Create a RHEL image
+intent_image_builder_getting_started,Download rhel
+intent_image_builder_getting_started,Download RHEL for me
+intent_image_builder_getting_started,Help me with RHEL
+intent_image_builder_getting_started,RHEL images
+intent_image_builder_getting_started,Setup me some images
+intent_image_builder_getting_started,Image builder please
+intent_image_builder_getting_started,can you help me build an image
+intent_image_builder_custom_content,How do I add [3rd party](image_builder_content) content to my RHEL images created by Image Builder?
+intent_image_builder_custom_content,Add [custom](image_builder_content) content to my RHEL images
+intent_image_builder_custom_content,Add [microsoft](image_builder_content) to my images
+intent_image_builder_custom_content,What custom content can I add
+intent_image_builder_custom_content,custom RHEL content
+intent_image_builder_custom_content,Can I use [sql](image_builder_content) with image builder?
+intent_image_builder_custom_content,Add [nvidia](image_builder_content) with image builder
+intent_image_builder_custom_content,I want to add [content](image_builder_content) from  repository to my images
+intent_image_builder_custom_content,RHEL image w [custom content](image_builder_content)
+intent_image_builder_custom_content,add a custom repo
+intent_image_builder_custom_content,lets add a custom repo
+intent_image_builder_custom_content,i want to add a repo
+intent_image_builder_custom_content,i want to add a repository
+intent_image_builder_custom_content,enable a repo
+intent_image_builder_custom_content,enable a repository
+intent_image_builder_custom_content,add a repository to rhel
+intent_image_builder_custom_content,customize my rhel image
+intent_image_builder_launch,How do I launch RHEL images in [AWS](image_builder_provider)?
+intent_image_builder_launch,Launch my RHEL image in [Azure](image_builder_provider)
+intent_image_builder_launch,We use [GCP](image_builder_provider) for our images
+intent_image_builder_launch,I want to launch my images in [OpenStack](image_builder_provider)
+intent_image_builder_launch,Launch images
+intent_image_builder_launch,Help me start my images
+intent_image_builder_launch,How do I access my images
+intent_image_builder_launch,Where can I launch my RHEL images
+intent_image_builder_launch,"I just used image builder, where are my images"
+intent_setup_insights,set up insights
+intent_setup_insights,how to set up insights
+intent_setup_insights,where can i install insights
+intent_setup_insights,show me directions for getting insights up
+intent_setup_insights,insights installation guidance
+intent_setup_insights,how do i get started with insights
+intent_setup_insights,install insights for me
+intent_setup_insights,insights setup
+intent_setup_insights,insights docuementation for installation?
+intent_setup_insights,getting started with insights
+intent_setup_insights,insights for rhel setup
+intent_setup_insights,insights for advisor installation guide?
+intent_setup_insights,insights for ansible help
+intent_setup_insights,help me wit rhel insights activation
+intent_setup_insights,activate insights for openshift please
+intent_setup_insights,configure insights on linux
+intent_setup_insights,ansible insights configuration assistance
+intent_setup_insights,is there any manual for getting linux insights up and running
+intent_setup_insights,help me with openshift insights
+intent_setup_insights,insights for ansible
+intent_setup_insights,rhel insights setup
+intent_setup_insights,ansible insights set up
+intent_setup_insights,openshift insights set up
+intent_setup_insights,linux insights set up
+intent_setup_insights,setup insights ansible
+intent_setup_insights,set up insights ansible
+intent_setup_insights,setup insights openshift
+intent_setup_insights,set up insights openshift
+intent_setup_insights,setup insights rhel
+intent_setup_insights,set up insights rhel
+intent_setup_insights,enterprise insights setup
+intent_setup_insights,setup enterprise insights
+intent_setup_insights,linux insights setup
+intent_setup_insights,setup insights linux
+intent_closing_start,bye
+intent_closing_start,I'm done.
+intent_closing_start,ok im done
+intent_closing_start,ok im finished
+intent_closing_start,finished
+intent_closing_start,end conversation
+intent_closing_start,end chat
+intent_closing_start,end our conversation
+intent_closing_start,I don't want to talk to you anymore
+intent_closing_start,goodbye
+intent_closing_start,convo over
+intent_closing_start,conversation complete
+intent_closing_start,close chat
+intent_closing_start,that's enough
+intent_closing_start,how do i stop this conversation
+intent_closing_start,see ya
+intent_closing_start,please stop this chat
+intent_closing_start,close this window
+intent_closing_restart,start over
+intent_closing_restart,restart
+intent_closing_restart,restart conversation
+intent_closing_restart,can we start over
+intent_closing_restart,can I start over
+intent_closing_restart,can we restart
+intent_closing_restart,refresh conversation
+intent_closing_restart,open a new conversation for me
+intent_api_availability,What APIs do you have available
+intent_api_availability,Where is your API documentation
+intent_api_availability,API catalog
+intent_api_availability,Can you show me your api docs
+intent_api_availability,I want to see more about APIs
+intent_api_availability,does advisor have an api doc
+intent_api_availability,give me the api doc for the vulnerability api
+intent_api_availability,I want to see the API doc for playbook dispatcher
+intent_api_availability,Can you provide me the api docs
+intent_api_availability,Can you tell me about the api catalog?
+intent_api_availability,I want to integrate
+intent_api_availability,how do i connect my app to the console
+intent_api_availability,connect to api
+intent_api_availability,connect to your interfaces
+intent_api_availability,Tell me about your APIs
+intent_api_availability,product APIs
+intent_api_availability,api
+intent_api_availability,Where can I find APIs
+intent_api_availability,do you have any api documentation available?
+intent_api_availability,"im not sure how to use this api, where can i find more details"
+intent_feedback_any,I want to submit feedback
+intent_feedback_any,Can I give you some feedback
+intent_feedback_any,I want to tell you something.
+intent_feedback_any,Let me tell you some feedback
+intent_feedback_any,I'LL TELL YOU WHAT I THINK
+intent_feedback_any,Do you take feedback?
+intent_feedback_any,I have an idea
+intent_feedback_any,Where can I give input
+intent_feedback_any,I want to leave a recommendation
+intent_feedback_any,Where can I submit a thought
+intent_feedback_any,I want to make a suggestion
+intent_feedback_any,Where can I leave a comment
+intent_feedback_any,I want to leave a comment
+intent_feedback_any,you need to make some changes
+intent_feedback_any,i have a request
+intent_feedback_any,i have a feature submission
+intent_feedback_any,i have an idea for a new thing for you to do
+intent_feedback_any,we have an rfe to make
+intent_feedback_any,i want to submit my rfe
+intent_feedback_any,do you take suggestions for new capabilities?
+intent_feedback_any,send feedback
+intent_feedback_bug,I want to open a case
+intent_feedback_bug,I want to share a bug
+intent_feedback_bug,I want to report a bug
+intent_feedback_bug,File a bug
+intent_feedback_bug,I want to file a bug
+intent_feedback_bug,Where do I file a bug?
+intent_feedback_bug,Where do I file bugs at?
+intent_feedback_bug,I want to file a bug
+intent_feedback_bug,I want to report a bug
+intent_feedback_bug,I am reporting a bug
+intent_feedback_bug,Report a bug
+intent_feedback_bug,I found a bug
+intent_feedback_bug,bug
+intent_feedback_bug,This shit is buggyyyy
+intent_feedback_bug,buggy app
+intent_feedback_bug,i've run into an issue
+intent_feedback_bug,this isn't working
+intent_integration_setup,set up integration
+intent_integration_setup,how do i use integrations
+intent_integration_setup,i want to use integrations
+intent_integration_setup,i want to plug into slack integration
+intent_integration_setup,i want to plug into teams
+intent_integration_setup,i want to send messages to google chat
+intent_integration_setup,i want to send messages to microsoft teams
+intent_integration_setup,setup splunk
+intent_integration_setup,connect alerts to slack
+intent_integration_setup,create snow connection
+intent_integration_setup,set up slack
+intent_integration_setup,can you help me setup integrations
+intent_integration_setup,are you able to setup my integrations for me
+intent_integration_setup,i want to create an integration
+intent_integration_setup,create a new integration
+intent_integration_setup,integrate with slack
+intent_integration_setup,create ms teams integration
+intent_integration_setup,my company wants to integrate with snow
+intent_integration_setup,how do i get integrations with 3rd party apps
+intent_integration_setup,do you offer third party integrations
+intent_integration_setup,what integrations does the console have
+intent_integration_setup,how do i enable a new integration
+intent_integration_setup,help me connect to a webhook
+intent_integration_setup,cloud connection setup
+intent_integration_setup,install an integration
+intent_integration_setup,slack endpoint creation
+intent_integration_setup,connect to my company's slack
+intent_integration_setup,make a connection to splunk
+intent_integration_setup,create servicenow connection
+intent_integration_setup,set up a cloud
+intent_integration_setup,connect my azure cloud
+intent_integration_setup,cloud integrations
+intent_integration_setup,create a source
+intent_integration_setup,can you help me with a source creation?
+intent_integration_setup,add a new source
+intent_integration_setup,add my snow
+intent_integration_setup,connect to event-driven ansible
+intent_integration_setup,integrate with service now
+intent_integration_setup,connect my openshift container platform
+intent_integration_setup,i need to add a new openshift container platform
+intent_integration_setup,red hat integrations creation
+intent_integration_setup,show me where to start a connection to openshift container platform
+intent_integration_setup,sources
+intent_integration_setup,set up an oracle cloud integration
+intent_integration_setup,create aws cloud connection
+intent_integration_edit,How do i edit my integration
+intent_integration_edit,change integration
+intent_integration_edit,update integration
+intent_integration_edit,change slack connection
+intent_integration_edit,update slack connection
+intent_integration_edit,update splunk connection
+intent_integration_edit,change splunk connection
+intent_integration_edit,change service now connection
+intent_integration_edit,update service now connection
+intent_integration_edit,change servicenow connection
+intent_integration_edit,update servicenow connection
+intent_integration_edit,change teams connection
+intent_integration_edit,update teams connection
+intent_integration_edit,rename an integration
+intent_integration_edit,i need to connect additional services
+intent_integration_edit,i need to pause an integration
+intent_integration_edit,i need to disable an integration
+intent_integration_edit,delete integration
+intent_integration_edit,can you disable a webhook for me
+intent_integration_edit,are you able to enable an integration that has been previously disabled
+intent_integration_edit,"i'd like to change the name of my ms teams integration, is that possible?"
+intent_integration_edit,can i change the endpoint of my splunk account?
+intent_integration_edit,please edit the gchat endpoint to this new url
+intent_integration_edit,"we dont need our servicenow integration any more, please get rid of it"
+intent_integration_edit,can i edit the details of my 3rd party integrations
+intent_integration_edit,reenable my third party app please
+intent_integration_edit,turn off these cloud integrations
+intent_integration_edit,disable aws cloud
+intent_integration_edit,rename azure cloud integration
+intent_integration_edit,change the name of my splunk connection
+intent_integration_edit,disconnect from google chat
+intent_integration_troubleshoot,my integration isn't working
+intent_integration_troubleshoot,"i'm not able to set up my integration successfully, can you help?"
+intent_integration_troubleshoot,i need assistance getting my integration hooked up because i keep getting an error integration error
+intent_integration_troubleshoot,failure to add integration
+intent_integration_troubleshoot,i keep getting an error when trying to integrate with slack
+intent_integration_troubleshoot,im unable to successfully integrate with google chat
+intent_integration_troubleshoot,can you help me troubleshoot my integration errors please
+intent_integration_troubleshoot,why is my integration not working
+intent_integration_troubleshoot,cloud integration is failing
+intent_integration_troubleshoot,cloud integration setup failure
+intent_integration_troubleshoot,we keep getting errors with integrations
+intent_integration_troubleshoot,troubleshoot integration not working
+intent_integration_troubleshoot,can you help me troubleshoot my integrations
+intent_integration_troubleshoot,servicenow failure
+intent_integration_troubleshoot,error with microsoft teams
+intent_integration_troubleshoot,splunk is not working
+intent_integration_troubleshoot,are you able to troubleshoot my event driven ansible integration
+intent_integration_troubleshoot,can you fix my integration problems
+intent_integration_troubleshoot,are you able to resolve my integration errors for me
+intent_notifications_setup,notifications
+intent_notifications_setup,set up event alerting
+intent_notifications_setup,get alerts
+intent_notifications_setup,find out about events
+intent_notifications_setup,get notifications
+intent_notifications_setup,send notifications to others
+intent_notifications_setup,create a notification
+intent_notifications_setup,create an alert
+intent_notifications_setup,add an alert
+intent_notifications_setup,add an event
+intent_notifications_setup,add a notification
+intent_notifications_setup,set up notifications
+intent_notifications_setup,setup a notification
+intent_notifications_setup,notif setup
+intent_notifications_setup,make new notificatons
+intent_notifications_setup,can you help me set up notifications
+intent_notifications_setup,i need to setup notifs
+intent_notifications_setup,how do i get emails about stuff on the console
+intent_notifications_setup,set up email alerts
+intent_notifications_setup,get email notifications
+intent_notifications_setup,i want slack notifications
+intent_notifications_setup,opt in to notifications
+intent_notifications_setup,subscribe to notification emails
+intent_notifications_setup,slack notification opt in
+intent_notifications_setup,sign me up for weekly digest emails
+intent_notifications_setup,i need to get those daily digest emails please
+intent_notifications_setup,i want to get notifications about patch
+intent_notifications_setup,"i want to receive email notifications, can you do that for me?"
+intent_notifications_setup,help me get notifications in ms teams?
+intent_notifications_setup,i want email alerts
+intent_notifications_setup,i want to get updates in my microsoft teams account
+intent_notifications_setup,i'd like to receive alerts in gchat
+intent_notifications_setup,can i point notifications to google chat channel?
+intent_notifications_setup,eda notifications - how to
+intent_notifications_setup,get alerts in splunk
+intent_notifications_edit,how do I edit notifications
+intent_notifications_edit,how do I notify my team of events
+intent_notifications_edit,update alert settings for my team
+intent_notifications_edit,how to change alert settings
+intent_notifications_edit,how do I remove a notification for my org
+intent_notifications_edit,i want to get notified about events
+intent_notifications_edit,how do I opt out of emails
+intent_notifications_edit,how do I change my notification preferences
+intent_notifications_edit,how do I mute notifications
+intent_notifications_edit,how do I mute alerts
+intent_notifications_edit,change notifications
+intent_notifications_edit,edit notification
+intent_notifications_edit,edit alert
+intent_notifications_edit,delete notifications
+intent_notifications_edit,turn off notifications
+intent_notifications_edit,disable notifications
+intent_notifications_edit,modify notifications
+intent_notifications_edit,how do I modify notifications
+intent_notifications_edit,notifications are annoying and i want them to be turned off
+intent_notifications_edit,can i change the frequency of notifications
+intent_notifications_edit,notifications daily digest turn off
+intent_notifications_edit,sign up for notifications weekly digest
+intent_notifications_edit,notification alert opt out
+intent_notifications_edit,unsubscribe from emails
+intent_notifications_edit,unsubscribe alerts
+intent_notifications_edit,stop the emails
+intent_notifications_edit,im getting way too many slack notifications
+intent_notifications_edit,how can i edit the frequency of gchat notifications
+intent_notifications_edit,can i change my notifications?
+intent_notifications_edit,change notification settings
+intent_notifications_edit,notification settings update
+intent_notifications_edit,update notifications
+intent_notifications_edit,update alert configuration
+intent_notifications_edit,there's too many notifications coming
+intent_notifications_edit,limit alerts to once per day
+intent_notifications_edit,limit my emails to once a day?
+intent_notifications_edit,is there a daily digest option for notifications?
+intent_notifications_troubleshoot,i'm not getting any notifications
+intent_notifications_troubleshoot,why am i not receiving email notifications
+intent_notifications_troubleshoot,"my colleague got an email notification, but I did not"
+intent_notifications_troubleshoot,I can't find my notifications
+intent_notifications_troubleshoot,notifications not working
+intent_notifications_troubleshoot,why did i stop receiving email notifications?
+intent_notifications_troubleshoot,my slack notifications stopped coming
+intent_notifications_troubleshoot,i'm not seeing my servicenow notifications any more
+intent_notifications_troubleshoot,did notifications stop working?
+intent_notifications_troubleshoot,something is wrong with my notifications
+intent_notifications_troubleshoot,one of my colleagues isnt getting emails
+intent_notifications_troubleshoot,my company's teams notifications are no longer coming through
+intent_notifications_troubleshoot,troubleshoot notifications problem
+intent_notifications_troubleshoot,missing notifications
+intent_notifications_troubleshoot,alerts are not coming through as expected
+intent_notifications_troubleshoot,why did my notifications to google chat stop
+intent_notifications_troubleshoot,alerts have been stopped
+intent_notifications_troubleshoot,we are having problems with notifications
+intent_notifications_troubleshoot,notifications issue
+intent_notifications_troubleshoot,issue occurring with account alerts
+intent_favorites_show,show me my favorites
+intent_favorites_show,what are my favorites
+intent_favorites_show,favorited services
+intent_favorites_show,favorite pages
+intent_favorites_show,where can I find my favorites
+intent_favorites_show,access my favorites
+intent_favorites_show,saved pages
+intent_favorites_show,saved services
+intent_favorites_show,I cant find my favorites
+intent_favorites_show,bring me to the favorites page please
+intent_favorites_show,redirect me to my starred pages
+intent_favorites_show,where are my starred links
+intent_favorites_show,show me my bookmarked services
+intent_favorites_show,where are the pages i bookmarked in here?
+intent_favorites_show,i'm not able to find the webpages that i added bookmarks to
+intent_favorites_show,i am unable to locate the places i starred
+intent_favorites_show,starred services
+intent_favorites_show,bookmarked pages in the console
+intent_favorites_show,what are favorites?
+intent_favorites_show,what are starred pages?
+intent_favorites_show,where are the pages i saved?
+intent_favorites_show,manage my favorite services
+intent_favorites_add,add this to favorites
+intent_favorites_add,add [rosa](core_services) to favorites
+intent_favorites_add,add the [advisor](core_services) service
+intent_favorites_add,favorite this page
+intent_favorites_add,favorite the [advisor](core_services) page
+intent_favorites_add,save this service for later
+intent_favorites_add,star this page for me
+intent_favorites_add,add a page to my favorites
+intent_favorites_add,favorite this service
+intent_favorites_add,add this service to my favorites
+intent_favorites_add,how to bookmark a page within the console
+intent_favorites_add,can you star my most visited services
+intent_favorites_add,i want to add all my most visited pages to my favorites
+intent_favorites_add,can you save my favorite pages for me?
+intent_favorites_add,are you able to bookmark things for me?
+intent_favorites_add,"I love this page, can you save it for me?"
+intent_favorites_delete,remove this from favorites
+intent_favorites_delete,remove this service from my favorites
+intent_favorites_delete,remove [openshift](core_services) from favorites
+intent_favorites_delete,unfavorite this service
+intent_favorites_delete,unstar this service
+intent_favorites_delete,remove the star from this pages
+intent_favorites_delete,delete favorited service
+intent_favorites_delete,delete a page from my favorites
+intent_favorites_delete,remove all of my favorites
+intent_favorites_delete,delete [notifications](core_services) from my favorites
+intent_enable_2fa,Enable 2FA
+intent_enable_2fa,I want to set up 2fa
+intent_enable_2fa,turn on 2fa
+intent_enable_2fa,do you have two factor auth available?
+intent_enable_2fa,I want to confirm my logins through my cell phone
+intent_enable_2fa,logins through cell phone
+intent_enable_2fa,"i need better security, can you set up something to text my phone when i log in"
+intent_enable_2fa,need better security
+intent_enable_2fa,send text to my phone when logging in
+intent_enable_2fa,text my phone when i log in
+intent_enable_2fa,my company is now requiring all logins to have two device signin
+intent_enable_2fa,two device signin
+intent_enable_2fa,2 device signin
+intent_enable_2fa,two device login
+intent_enable_2fa,want to make my org use two device sign in process
+intent_enable_2fa,my company needs two factor authorization enabled on this site
+intent_enable_2fa,"we have to use 2fa, can you help"
+intent_enable_2fa,use 2-factor authorization to sign in
+intent_enable_2fa,2 factor authorization
+intent_enable_2fa,team has to use 2 factor authentication now. are you able to do that for me
