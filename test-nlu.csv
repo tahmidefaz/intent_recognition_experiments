@@ -1,0 +1,97 @@
+intent,example
+intent_data_privacy_policy,Are people watching my conversation?
+intent_data_privacy_policy,How is my data being used?
+intent_data_privacy_policy,How are you ensuring my privacy?
+intent_live_chat,Do you support live chat?
+intent_live_chat,I want to talk to a live agent
+intent_live_chat,Give me a damn human being!!
+intent_user_preferences,"Change my [email address]{""entity"": ""preference""}?"
+intent_user_preferences,"Where can I reset my [password]{""entity"": ""preference""}?"
+intent_user_preferences,"I want to change my [login]{""entity"": ""preference""}."
+intent_user_preferences,"I want to change my [personal information]{""entity"": ""preference""}."
+intent_out_of_scope,Who started Red Hat?
+intent_out_of_scope,What products does Red Hat make?
+intent_are_you_ai,What are you using to run this?
+intent_are_you_ai,Are you using artificial intelligence?
+intent_feedback_any,Where can I leave some feedback?
+intent_feedback_any,Send Feedback
+intent_core_capabilities,What kind of things can you do?
+intent_core_capabilities,What products can you assist with?
+intent_core_capabilities,What services can you help me with?
+intent_core_capabilities,What can you do?
+intent_core_capabilities,Show me what you can do
+intent_core_capabilities,What are some examples of things you can do?
+intent_send_complaint,This is pure trash
+intent_send_complaint,I hate this thing!
+intent_core_hello,Hello
+intent_core_hello,Hello robot
+intent_core_hello,Sup bot
+intent_core_hello,Good morning!!!
+nlu_fallback,dogs
+nlu_fallback,Tommy Dorsey
+nlu_fallback,Who is my mom?
+nlu_fallback,what is the meaning of life?
+intent_unknown_topic,do you like pina coladas?
+intent_unknown_topic,What pair of shoes do you recommend?
+intent_unknown_topic,do you like fish?
+intent_unknown_topic,what's the weather?
+intent_unknown_topic,Tell me a joke
+intent_unknown_topic,Can you math?
+intent_unknown_topic,What headphones do you recommend?
+intent_unknown_topic,what headphones do you recommend?
+intent_unknown_topic,Do you like fish
+intent_core_help,help me deploy my [rosa](core_services)
+intent_core_help,What is life?
+intent_core_help,What is [acs](core_services)
+intent_core_help,can you help me with my problem?
+intent_core_help,I need help with [ocm](core_services)
+intent_core_help,I want to manage [rosa](core_services)
+intent_core_help,can you help me with my [ocm](core_services)
+intent_core_help,I want help with [ocm](core_services)
+intent_out_of_scope_subscriptions_costs,How much does a subscription cost?
+intent_out_of_scope_subscriptions_costs,What are my subscriptions costing me?
+intent_out_of_scope_subscriptions_costs,How much am I paying for my subs?
+intent_register_rhel_system,Can you help me register my system?
+intent_register_rhel_system,Register my RHEL system
+intent_register_rhel_system,connect my rhel system
+intent_activate_subscription,Can you please activate my subscription?
+intent_activate_subscription,I already got a subscription and I want to activate it
+intent_activate_subscription,activate my sub
+intent_check_subscriptions,Any expiring subs?
+intent_check_subscriptions,Show me my active subscriptions
+intent_check_subscriptions,my subs status
+intent_check_subscriptions,how many subs?
+intent_subscriptions_generic,subs resources
+intent_subscriptions_generic,subscriptions info
+intent_subscriptions_generic,need help with subscriptions
+intent_insights_advisor_recommendation_by_type,new recommendations from [advisor](core_services)
+intent_insights_advisor_recommendation_by_type,What suggestions is [advisor](core_services) giving me?
+insights_vulnerability_my_cves,Which CVEs do I have?
+intent_image_builder_getting_started,Create a rhel image
+intent_image_builder_launch,"Launch my rhel image in [aws]{""entity"": ""image_builder_provider"", ""value"": ""AWS""}"
+intent_image_builder_launch,Launch my rhel image
+intent_image_builder_launch,"Launch my rhel image in [gcp]{""entity"": ""image_builder_provider"", ""value"": ""GCP""}"
+intent_image_builder_launch,"Launch my rhel image in [azure]{""entity"": ""image_builder_provider"", ""value"": ""Azure""}"
+intent_access_check_access,Do I have access to [policies](core_services)?
+intent_access_check_access,Am I allowed to blabla?
+intent_access_check_access,Can you check my access permission?
+intent_access_check_access,Do I have access to [advisor](core_services)?
+intent_access_check_access,Do i have permission to blabla?
+intent_access_capabilities,Can you help me get access?
+intent_access_capabilities,How do i get access?
+intent_access_capabilities,What do I do if I can't access something?
+intent_access_contact_admin,Who do I ask for access?
+intent_access_request,I want access to foobar
+intent_core_no,No
+intent_core_yes,Yes
+intent_api_availability,Can you provide me the api docs for the [advisor](core_services) service?
+intent_api_availability,Where can I find documentations around your API?
+intent_api_availability,api docs
+intent_api_availability,API documentations
+intent_closing_start,OK I'm finished
+intent_closing_start,end conversation
+intent_closing_start,I'm done
+intent_closing_restart,can i start over
+intent_closing_restart,open a new conversation for me
+intent_feedback_bug,I want to share a bug
+intent_feedback_bug,Open a support case

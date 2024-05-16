@@ -24,10 +24,6 @@ def read_nlu_files(directory):
                     print("Intent:", intent)
                     print(examples)
                     write_to_csv(intent, examples)
-                    # if intent not in intents:
-                    #     intents[intent] = examples
-                    # else:
-                    #     intents[intent].extend(examples)
 
     return intents
 
